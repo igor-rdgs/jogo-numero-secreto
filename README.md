@@ -2,8 +2,8 @@
 
 ## Sobre
 
-Projeto criado no curso de lógica de programação da Alura.
-Link para acessar o jogo: https://js-jogo-one.vercel.app
+<p>Projeto criado no curso de lógica de programação da Alura.<br>
+Link para acessar o jogo: https://js-jogo-one.vercel.app<p>
 
 ## Tecnologias
 
